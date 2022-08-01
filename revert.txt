@@ -1,6 +1,0 @@
-Line 1 Typed
-Line 2
-Line 3 Hello
-Line 4 Not
-Line 5
-

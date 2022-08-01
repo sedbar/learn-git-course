@@ -1,0 +1,5 @@
+I am on windows, using git bash
+I am on windows, config global git bash
+I am on Windows, config user.name as sedbar
+I am on Windows, config user.email as private on github
+I use github advise to set user.email as private

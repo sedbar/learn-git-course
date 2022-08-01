@@ -1,10 +1,6 @@
-Line 1
+Line 1 Typed
 Line 2
-<<<<<<< HEAD
 Line 3 Hello
 Line 4 Not
 Line 5
 
-=======
-Line 3
->>>>>>> parent of ec49709... revert file line 1
